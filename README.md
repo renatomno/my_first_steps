@@ -18,7 +18,7 @@
 
     E fiz o link do repositório com a pasta local
 
-    	git clone https://github.com/renatomno/my_first_steps.git
+    	git remote add origin https://github.com/renatomno/my_first_steps
 
     Agora tenho um diretório vinculado ao meu repositório remoto
 
