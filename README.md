@@ -54,4 +54,4 @@
 
     	vi serei_ignorado.txt
 
-    Editando o arquivo ".gitignore" (vi .gitignore), basta adicionar o nome do arquivo que queremos que seja ignorado. Logo, em sua primeira linha está escrito "serei_ignorado.txt".
+    Editando o arquivo ".gitignore" (vi .gitignore), basta adicionar o nome do arquivo que queremos que seja ignorado. Logo, em sua primeira linha está escrito "serei_ignorado.txt"..
