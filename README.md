@@ -1,6 +1,6 @@
 1. Após criado a sua conta no GitHub, crie um repositório remoto público chamado "my_first_steps" e cole o link aqui;
 
-    	[https://github.com/renatomno/my_first_steps](https://github.com/renatomno/my_first_steps)
+    	https://github.com/renatomno/my_first_steps
 
 2. Crie um diretório em sua máquina e o vincule ao seu repositório remoto "my_first_steps" utilizando os comandos git necessários para a realização desta tarefa. Cole aqui a cadeia de comando que você utilizou para a realização desta tarefa.
 
@@ -18,7 +18,7 @@
 
     E fiz o download do repositório para a pasta
 
-    	git clone [https://github.com/renatomno/my_first_steps.git](https://github.com/renatomno/my_first_steps.git)
+    	git clone https://github.com/renatomno/my_first_steps.git
 
     Agora tenho um diretório vinculado ao meu repositório remoto
 
