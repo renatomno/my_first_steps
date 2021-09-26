@@ -16,7 +16,7 @@
 
     	git init
 
-    E fiz o download do repositório para a pasta
+    E fiz o link do repositório com a pasta local
 
     	git clone https://github.com/renatomno/my_first_steps.git
 
