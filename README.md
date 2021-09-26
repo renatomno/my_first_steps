@@ -8,7 +8,7 @@
 
     	mkdir alpha_git
 
-    "Entrei" nela
+    Selecionei-a para navegação
 
      	cd alpha_git
 
